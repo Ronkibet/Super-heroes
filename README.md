@@ -117,6 +117,6 @@ curl http://localhost:3000/powers/1
 curl -X POST -H "Content-Type: application/json" -d '{"hero_id": 1, "power_id": 2, "strength": "Strong"}' http://localhost:3000/heropowers
 
 
-## Author: VICTOR KARIUKI
+## Author: Ronnie Kibuye
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
